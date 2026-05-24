@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Press de Banca",
+    "grupoMuscular": "pecho"
+  },
+  {
+    "id": 2,
+    "nombre": "Sentadillas",
+    "grupoMuscular": "piernas"
+  },
+  {
+    "id": 3,
+    "nombre": "Dominadas",
+    "grupoMuscular": "espalda"
+  },
+  {
+    "id": 4,
+    "nombre": "Press Militar",
+    "grupoMuscular": "hombros"
+  },
+  {
+    "id": 5,
+    "nombre": "Aperturas con Mancuernas",
+    "grupoMuscular": "pecho"
+  },
+  {
+    "id": 6,
+    "nombre": "Peso Muerto",
+    "grupoMuscular": "espalda"
+  }
+]
